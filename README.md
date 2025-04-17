@@ -31,6 +31,19 @@ sudo apt install python3-pip portaudio19-dev libportaudio2 libportaudiocpp0 ffmp
 pip install customtkinter sounddevice scipy pillow google-generativeai txtai[all]
 ```
 
+### Demo Image
+
+![demo1](https://github.com/codebynj/voiceai/blob/main/demo_image/demo1.png?raw=true)
+
+### ⚙️ How It Works
+- Start Recording: Press "Start" to begin audio capture
+
+- Transcription: Gemini API transcribes and refines the text
+
+- Document QA: txtai RAG answers based on uploaded document
+
+- Output: Transcript and AI response appear in GUI
+
 ### Project Structure
 ```
 voice-ai-assistant/
