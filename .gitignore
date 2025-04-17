@@ -1,0 +1,10 @@
+# Python modules and virtual env
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+dist/
+build/
+
+# Ignore macOS files (optional)
+.DS_Store
