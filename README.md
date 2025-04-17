@@ -33,7 +33,7 @@ pip install customtkinter sounddevice scipy pillow google-generativeai txtai[all
 
 ### Demo Image
 
-![demo1](https://github.com/codebynj/voiceai/blob/main/demo_image/demo1.png?raw=true)
+![demo1](https://github.com/codebyNJ/voiceai/blob/main/demo_images/demo1.png?raw=true)
 
 ### ⚙️ How It Works
 - Start Recording: Press "Start" to begin audio capture
